@@ -1,0 +1,7 @@
+
+Stop Nmap Scanner  , 
+
+ * Linux Script
+ Usage > mv security /etc/init.d/
+ update-rc.d security defaults 10
+ update-rc.d security defaults 10
