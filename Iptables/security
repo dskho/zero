@@ -174,19 +174,3 @@ iptables -A INPUT -p tcp --dport 8118 -j ACCEPT
 iptables -A INPUT -p tcp --dport 9050 -j ACCEPT
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
