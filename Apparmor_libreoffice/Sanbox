@@ -1,1 +1,10 @@
-nuevo
+Libreoffice es necesario tener firejail - Sanbox 
+
+Necesary
+* apt-get install firejail
+
+Usage >
+mv libreoffice folder home/.config /
+mv .desktop files  /usr/share/applications
+Exec Usage
+Exec=firejail --apparmor libreoffice --base %U
