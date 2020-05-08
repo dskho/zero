@@ -21,5 +21,5 @@ extra_latent_entropy tsx=off kptr_restrict=2 kexec_loaded_disabled=1 kaslr intel
 ssbd=force-off tsx_async_abort=off kvm.nx_huge_pages=off kpti=0 nobp=0 deny_new_usb=1
 
 <b>Kernel Encryption Security | </b><br>
-support for system encryption in live mode online security | <br>
+Support for system encryption in live mode online security | <br>
 persistent=cryptsetup persistence-encryption=luks
