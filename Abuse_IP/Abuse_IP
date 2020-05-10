@@ -1,0 +1,16 @@
+
+Move scripts correct folders.
+
+Ncesary :
+apt-get install ipset
+
+terminal >
+
+mv abuseip /etc/init.d/
+
+mkdir sysconfig
+mv ipset.* /etc/sysconfig/
+
+sudo update-rc.d abuseip defaults 10
+sudo service abuseip start
+
