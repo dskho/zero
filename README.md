@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/jonathanvlan/zero/master/Logo-zero.png)
+![alt text](https://raw.githubusercontent.com/jonathanvlan/zero/master/zZ.png)
 
 
 <b>Kernel Security | Integrity Measurement Architecture </b><br>
