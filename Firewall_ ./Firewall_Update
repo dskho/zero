@@ -1,0 +1,10 @@
+
+Necesary UFW
+apt-get install ufw
+
+rm -rf /etc/ufw
+mv folder ufw  /etc/ufw
+sudo ufw enable
+sudo service ufw start
+
+*Necesary nmap-block script 
