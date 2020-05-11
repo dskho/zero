@@ -1,0 +1,5 @@
+
+Terminal >
+
+sudo mv blocktime /etc/init.d/
+sudo update-rc.d blocktime defaults 10
