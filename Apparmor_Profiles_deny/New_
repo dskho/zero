@@ -1,2 +1,8 @@
+Necesary Apparmor
+sudo apt-get install apparmor apparmor-utils
 
-...-
+Terminal >
+sudo mv usr.bin.deny-applications /etc/apparmor.d/
+sudo service apparmor restart
+
+
