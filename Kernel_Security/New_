@@ -1,1 +1,4 @@
-..-
+
+Terminal >
+sudo update-rc.d protection defults 10
+sudo service protection start
