@@ -1,2 +1,5 @@
 
-..-
+Terminal >
+
+sudo mv machineid /etc/init.d/
+sudo update-rc.d machineid defaults 10
