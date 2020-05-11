@@ -1,0 +1,4 @@
+Cpu Fingerprinting .
+
+Terminal >
+sudo update-rc.d cpuinfox defults 10
