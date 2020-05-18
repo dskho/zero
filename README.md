@@ -49,9 +49,6 @@ Security does not allow the exact number of the kernel to be recognized, in host
 forensic methodology, this protection allows you to browse the Internet and avoid recognition at the <br>
 kernel level | 9999999999 9999.9999.9999 x86_64 GNU/Linux
 
-<b>Evasion Pentest | </b><br>
-The system is designed to evade penetration tests and intelligence methodology
-
 <b>GPU Fingerprinting | Font Fingerprinting | Display Fingerprinting</b><br>
 In process
 
