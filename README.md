@@ -41,7 +41,8 @@ It allows to integrate a security through the kernel - scripts which modifies al
 parameters, avoiding attacks aimed at bios, bootkits
 
 <b>Hardware Fingerprinting | </b><br>
-
+This security is intended to change the hardware architecture, this security necessary to evade the <br>
+Network Investigative Technique
 
 <b>Kernel Fingerprinting | </b><br>
 Security does not allow the exact number of the kernel to be recognized, in hostile environments or by <br>
