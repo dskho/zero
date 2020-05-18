@@ -27,8 +27,11 @@ persistent=cryptsetup persistence-encryption=luks
 <b>Firewall | </b><br>
 
 <b>Cpu Fingerprinting | </b><br>
+Cpu is modified when starting systemd this security does not allow the real identification of CPU,<br>
+Cores, evading the recognition tools.
 
 <b>Machine Fingerprinting | </b><br>
+
 
 <b>Bios Fingerprinting | </b><br>
 
