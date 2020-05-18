@@ -37,8 +37,20 @@ This security allows evading ID recognition, each computer has an identification
 the machine finger changes identification at every system startup so as not to be identified
 
 <b>Bios Fingerprinting | </b><br>
+It allows to integrate a security through the kernel - scripts which modifies all the recognition <br>
+parameters, avoiding attacks aimed at bios, bootkits
+
+<b>Hardware Fingerprinting | </b><br>
+
 
 <b>Kernel Fingerprinting | </b><br>
 Security does not allow the exact number of the kernel to be recognized, in hostile environments or by <br>
 forensic methodology, this protection allows you to browse the Internet and avoid recognition at the <br>
 kernel level | 9999999999 9999.9999.9999 x86_64 GNU/Linux
+
+<b>Evasion Pentest | </b><br>
+The system is designed to evade penetration tests and intelligence methodology
+
+<b>GPU Fingerprinting | Font Fingerprinting | Display Fingerprinting</b><br>
+In process
+
