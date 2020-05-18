@@ -1,0 +1,6 @@
+
+Install theme white Minimalist / Mate Desktop / Gnome-shell Desktop
+
+Terminal >
+mv zzZ-theme  /usr/share/themes
+mv zzZ-Icons /usr/share/icons
