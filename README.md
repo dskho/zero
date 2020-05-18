@@ -33,7 +33,8 @@ Cpu is modified when starting systemd this security does not allow the real iden
 Cores, evading the recognition tools.
 
 <b>Machine Fingerprinting | </b><br>
-
+This security allows evading ID recognition, each computer has an identification number,<br>
+the machine finger changes identification at every system startup so as not to be identified
 
 <b>Bios Fingerprinting | </b><br>
 
