@@ -25,6 +25,8 @@ Support for system encryption in live mode online security | <br>
 persistent=cryptsetup persistence-encryption=luks
 
 <b>Firewall | </b><br>
+Firewall blocks 33,000 default ports for security, This firewall is necessary since malware is intended<br>
+for specific ports, TCP / UDP
 
 <b>Cpu Fingerprinting | </b><br>
 Cpu is modified when starting systemd this security does not allow the real identification of CPU,<br>
