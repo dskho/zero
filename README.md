@@ -23,3 +23,13 @@ ssbd=force-off tsx_async_abort=off kvm.nx_huge_pages=off kpti=0 nobp=0 deny_new_
 <b>Kernel Encryption Security | </b><br>
 Support for system encryption in live mode online security | <br>
 persistent=cryptsetup persistence-encryption=luks
+
+<b>Firewall | </b><br>
+
+<b>Cpu Fingerprinting | </b><br>
+
+<b>Machine Fingerprinting | </b><br>
+
+<b>Bios Fingerprinting | </b><br>
+
+<b>Kernel Fingerprinting | </b><br>
