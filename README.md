@@ -39,3 +39,6 @@ the machine finger changes identification at every system startup so as not to b
 <b>Bios Fingerprinting | </b><br>
 
 <b>Kernel Fingerprinting | </b><br>
+Security does not allow the exact number of the kernel to be recognized, in hostile environments or by <br>
+forensic methodology, this protection allows you to browse the Internet and avoid recognition at the <br>
+kernel level | 9999999999 9999.9999.9999 x86_64 GNU/Linux
