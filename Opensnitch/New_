@@ -1,0 +1,9 @@
+
+
+Opensnitch deb , Debian sid, buster / Mate Desktop
+Necesary *
+sudo apt-get install libnetfilter-queue1 libnetfilter-conntrack3 python3-slugify python-pyqt5 libc6 python3.7
+
+Terminal >
+sudo dpkg -i opensnitch_1.0.deb
+
